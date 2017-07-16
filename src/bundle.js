@@ -39616,12 +39616,6 @@ var App = function (_React$Component) {
 
 exports.default = App;
 
-
-function testMeth(a, b) {
-  return a + b;
-}
-module.exports = testMeth;
-
 /***/ }),
 /* 186 */
 /***/ (function(module, exports, __webpack_require__) {

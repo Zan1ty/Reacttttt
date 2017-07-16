@@ -75,9 +75,3 @@ export default class App extends React.Component
 
 
 }
-
-function testMeth(a, b)
-{
-  return a + b;
-}
-module.exports = testMeth;
